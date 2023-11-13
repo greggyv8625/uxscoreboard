@@ -2,6 +2,31 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.3](https://github.com/asapzacy/uxscoreboard/compare/v1.3.2...v1.3.3) (2023-11-13)
+
+
+### Bug Fixes
+
+* last updated text in Game Details component ([2212d5a](https://github.com/asapzacy/uxscoreboard/commit/2212d5a7e5187f2b350c71b943ff686934579e6a))
+* mlb season dates for 2021 season ([1a79679](https://github.com/asapzacy/uxscoreboard/commit/1a79679bbb0afcdb08e06e0d5608c73be86402af))
+* move React.Suspense fallback to route-level inside the app ([7bcb8fa](https://github.com/asapzacy/uxscoreboard/commit/7bcb8fa80b569ee42651a9356a397b95e8907d8b))
+* nba games post-covid dates ([a2fcf31](https://github.com/asapzacy/uxscoreboard/commit/a2fcf317a61b2bd148494c510f5803d3d40491e4))
+
+
+### Code Refactoring
+
+* rename Global component to GlobalStyles ([53dfcee](https://github.com/asapzacy/uxscoreboard/commit/53dfceedcdd7b5ad5cf0d7ea962053f2c49fe984))
+
+
+### Others
+
+* add babel option-chaining plugin ([9807cfa](https://github.com/asapzacy/uxscoreboard/commit/9807cfaec38e3b16307173b5407f9885dd834640))
+
+
+### Styling
+
+* change NoGames bg color ([858e5af](https://github.com/asapzacy/uxscoreboard/commit/858e5af211d2408989e72a6279c8345ac379b8e6))
+
 ### [1.3.2](https://github.com/asapzacy/uxscoreboard/compare/v1.3.1...v1.3.2) (2020-07-26)
 
 
